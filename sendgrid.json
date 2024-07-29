@@ -9,11 +9,11 @@
     }
   },
   "layouts": {
-    "forgot_password": {
+    "forgotPassword": {
       "path": "layouts/forgotPassword",
       "templates": ["html"]
     },
-    "invite_user": {
+    "inviteUser": {
       "path": "layouts/inviteUser",
       "templates": ["html", "txt"]
     }
