@@ -1,1 +1,1 @@
-{"description":"Specify required object","examples":[{"callbackUrl":"https://rocketmakers.com"}],"type":"object","properties":{"callbackUrl":{"type":"string"}},"required":["callbackUrl"],"$schema":"http://json-schema.org/draft-07/schema#"}
+{"description":"Specify required object","examples":[{"returnUrl":"https://rocketmakers.com"}],"type":"object","properties":{"returnUrl":{"type":"string"}},"required":["returnUrl"],"$schema":"http://json-schema.org/draft-07/schema#"}

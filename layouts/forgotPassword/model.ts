@@ -5,12 +5,12 @@
  */
 export interface IModel {
   username: string;
-  callbackUrl: string;
+  returnUrl: string;
 }
 
 export const sampleData: IModel[] = [
   {
     username: "test@rocketmakers.com",
-    callbackUrl: "https://rocketmakers.com",
+    returnUrl: "https://rocketmakers.com",
   },
 ];

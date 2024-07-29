@@ -4,11 +4,11 @@
  * @examples require(".").sampleData
  */
 export interface IModel {
-  callbackUrl: string;
+  returnUrl: string;
 }
 
 export const sampleData: IModel[] = [
   {
-    callbackUrl: "https://rocketmakers.com",
+    returnUrl: "https://rocketmakers.com",
   },
 ];
