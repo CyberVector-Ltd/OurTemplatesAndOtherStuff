@@ -11,7 +11,7 @@
   "layouts": {
     "forgotPassword": {
       "path": "layouts/forgotPassword",
-      "templates": ["html"]
+      "templates": ["html", "txt"]
     },
     "inviteUser": {
       "path": "layouts/inviteUser",
